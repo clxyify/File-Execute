@@ -14,5 +14,5 @@ FileExecute(my_root);//run the file script
 If you want to read and print out the script file:
 ```csharp
 string my_root = "scripts\\print.txt";
-FileExecute("print('" + my_root + "');
+FileExecute("print('" + my_root + "'");
 ```
